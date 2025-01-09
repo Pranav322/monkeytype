@@ -17,7 +17,7 @@ To install MonkeyType, follow these steps:
     ```
 3. Create a virtual envvironment :
     ```sh
-    python3 -m vene venv && venv\Scripts\activate
+    python3 -m venv venv && venv\Scripts\activate
     ```
 5. Install the dependencies:
     ```sh
